@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56cdb4c0-6ba9-4047-a6db-6c816708f386)# QUEUE APPLICATIONS
+# QUEUE APPLICATIONS
 
 ## PROGRAM STATEMENT :
 
